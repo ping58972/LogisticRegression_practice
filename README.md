@@ -59,6 +59,7 @@ def sigmoid(z):
 
 #### Cost function and gradient
 ![png](Logistic_Regression_files/c.png)
+
 ![png](Logistic_Regression_files/g.png)
 
 
@@ -360,7 +361,9 @@ def sigmoid(z):
 
 #### Cost function and gradient Regularized
 ![png](Logistic_Regression_files/cr.png)
+
 ![png](Logistic_Regression_files/gr0.png)
+
 ![png](Logistic_Regression_files/gr.png)
 
 
