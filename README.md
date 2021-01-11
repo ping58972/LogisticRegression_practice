@@ -1,5 +1,16 @@
 # Machine Learning Logistic Regression
 
+Machine Learning Logistic Regression.
+
+1. Logistic Regression
+Implement logistic regression and apply it to two different datasets.
+Build a logistic regression model to predict whether a student gets admitted into a university.
+Determine each applicant's chance of admission based on their results on two exams. You have historical data from previous applicants that you can use as a training set for logistic regression. For each training
+example, you have the applicant's scores on two exams and the admissions decision.
+Build a classication model that estimates an applicant's probability of admission based the scores from those two exams.
+
+2. Regularized logistic regression
+Implement regularized logistic regression to predict whether microchips from a fabrication plant passes quality assurance (QA). During QA, each microchip goes through various tests to ensure it is functioning correctly. Testing results for some microchips on two different tests. From these two tests, to determine whether the microchips should be accepted or rejected. To help making the decision.
 
 ```python
 import numpy as np
